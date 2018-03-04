@@ -1,0 +1,13 @@
+E:\đh\C#\C#_Winform\buombay\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\đh\C#\C#_Winform\New folder\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\tailieuDH\Laptrinh\C#\C#_Winform\buombay\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\tailieuDH\Laptrinh\C#\C#_Winform\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\buombay\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
